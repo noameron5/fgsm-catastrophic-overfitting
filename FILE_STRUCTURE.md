@@ -26,16 +26,4 @@ This document lists all files in the catastrophic overfitting demonstration proj
 3. **train_atss.py** - ATSS prevention method
 4. **compare.py** - Comparison and visualization
 
-## Results (results/)
 
-Generated at runtime:
-- catastrophic_overfitting_results.json
-- atss_results.json
-- participation_ratio_data.json
-- Various PNG visualization files
-- Model checkpoints (.pth files)
-
-## Total Files
-
-Core files: 14
-Generated files: Variable (created during experiments)
